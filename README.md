@@ -2,7 +2,7 @@
 
 My QQ 3115093767
 
-my [Blog](https://neu233.github.io/)
+my [Blog](https://blog.greglee.cn)
 
-[![My Github States](https://github-readme-stats.vercel.app/api?username=neu233)]()
+[![My Github States](https://github-readme-stats.vercel.app/api?username=greglee0)]()
 
